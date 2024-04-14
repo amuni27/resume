@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.a8248f83.css",
-    "main.js": "/resume/static/js/main.5ca508bd.js",
-    "static/media/wengel2.png": "/resume/static/media/wengel2.863cf5366583fe79beea.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/resume/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/img.jpg": "/resume/static/media/img.c9cf3f78dced90991cf8.jpg",
-    "static/media/fontawesome-webfont.eot": "/resume/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/resume/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/WenMat2.pdf": "/resume/static/media/WenMat2.397abe9cdcfb383a419a.pdf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/resume/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/resume/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/resume/index.html",
-    "main.a8248f83.css.map": "/resume/static/css/main.a8248f83.css.map",
-    "main.5ca508bd.js.map": "/resume/static/js/main.5ca508bd.js.map"
+    "main.css": "/resume1/static/css/main.386c404a.css",
+    "main.js": "/resume1/static/js/main.0497df0a.js",
+    "static/media/wengel2.png": "/resume1/static/media/wengel2.863cf5366583fe79beea.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/resume1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img.jpg": "/resume1/static/media/img.c9cf3f78dced90991cf8.jpg",
+    "static/media/fontawesome-webfont.eot": "/resume1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/resume1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/WenMat2.pdf": "/resume1/static/media/WenMat2.397abe9cdcfb383a419a.pdf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/resume1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/resume1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/resume1/index.html",
+    "main.386c404a.css.map": "/resume1/static/css/main.386c404a.css.map",
+    "main.0497df0a.js.map": "/resume1/static/js/main.0497df0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8248f83.css",
-    "static/js/main.5ca508bd.js"
+    "static/css/main.386c404a.css",
+    "static/js/main.0497df0a.js"
   ]
 }
